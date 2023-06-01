@@ -4,6 +4,7 @@ Repositorio de actividades multimedia e interactivas H5P en Enseñanzas de Infor
 Se incluyen las siguientes actividades H5P:
 
 * ÁRBOL B+ - Diseño y Administración de Bases de Datos.
+* Unidad de Control - Estructura de Computadores.
 
 ___
 Todas las actividades publicadas en el presente repositorio están sujetas a una licencia:
