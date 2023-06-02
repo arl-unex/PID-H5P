@@ -8,6 +8,7 @@ Se incluyen las siguientes actividades H5P:
 * Testbench: Autoevaluación sobre bancos de prueba para simulación de diseños VHDL - Diseño de Procesadores
 * VHDL: Autoevaluación sobre conocimientos básicos de VHDL - Diseño de Procesadores
 * Panel domótico: Estructura de un panel entrenador para prácticas de domótica - Domótica
+* Planificación de Tareas: Tres ejercicios sobre planificación de tareas en sistemas de tiempo real
 
 ___
 Todas las actividades publicadas en el presente repositorio están sujetas a una licencia:
