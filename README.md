@@ -5,6 +5,9 @@ Se incluyen las siguientes actividades H5P:
 
 * ÁRBOL B+ - Diseño y Administración de Bases de Datos.
 * Unidad de Control - Estructura de Computadores.
+* Testbench: Autoevaluación sobre bancos de prueba para simulación de diseños VHDL - Diseño de Procesadores
+* VHDL: Autoevaluación sobre conocimientos básicos de VHDL - Diseño de Procesadores
+* Panel domótico: Estructura de un panel entrenador para prácticas de domótica - Domótica
 
 ___
 Todas las actividades publicadas en el presente repositorio están sujetas a una licencia:
