@@ -6,7 +6,7 @@ The following H5P activities are included:
 * DomoticPanel - Structure of a training domotic panel for practices - Domotics.
 * ParallelProgrammingOpenMP - Parallel programming with OpenMP - Computer Architecture.
 * TaskScheduling - Three exercises on task scheduling - Real-Time Systems.
-* TreeB+ - Database Design and Administration.
+* TreeB+ - Exercises on trees B+ - Database Design and Administration.
 * VHDLBasics - Self-assessment on basic knowledge about VHDL - Processor Design.
 * VHDLTestbench - Self-assessment on test benches for simulation of VHDL designs - Processor Design.
 ___
