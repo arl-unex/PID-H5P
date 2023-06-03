@@ -15,5 +15,5 @@ All activities published in this repository are subject to a license:
 [![CC-BY-SA](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 <div style="font-size: 80%">
-These activities have been elaborated within the Teaching Innovation Project entitled "ASSESSMENT WITH MULTIMEDIA AND INTERACTIVE H5P RESOURCES FOR TEACHING INFORMATICS AND NEW TECHNOLOGIES" (LP2. Initiatives focused on the virtualization of teaching) funded by the Teacher Training and Guidance Service (SOFD) of the University of Extremadura (UEx), SPAIN (Teaching Innovation Actions from the UEx Teacher Training and Guidance Service 2022/2023).
+These activities have been elaborated within the Teaching Innovation Project entitled "ASSESSMENT WITH MULTIMEDIA AND INTERACTIVE H5P RESOURCES FOR TEACHING INFORMATICS AND NEW TECHNOLOGIES" (LP2. Initiatives focused on the virtualization of teaching) funded by the Guidance and Teacher Training Service (SOFD) of the University of Extremadura (UEx), SPAIN (Teaching Innovation Actions from the UEx Guidance and Teacher Training Service 2022/2023).
 </div>
