@@ -2,9 +2,9 @@
 Repository of multimedia and interactive H5P activities for teaching Informatics and New Technologies
 
 The following H5P activities are included:
-* ControlUnit - Computer Structure.
+* ControlUnit - Exercises on a control unit - Computer Structure.
 * DomoticPanel - Structure of a training domotic panel for practices - Domotics.
-* ParallelProgrammingOpenMP: Parallel programming with OpenMP - Computer Architecture.
+* ParallelProgrammingOpenMP - Parallel programming with OpenMP - Computer Architecture.
 * TaskScheduling - Three exercises on task scheduling - Real-Time Systems.
 * TreeB+ - Database Design and Administration.
 * VHDLBasics - Self-assessment on basic knowledge about VHDL - Processor Design.
